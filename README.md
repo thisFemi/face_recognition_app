@@ -12,7 +12,7 @@ https://github.com/thisFemi/face_recognition_python
 
 
 ##How to use in your flutter project?
-
+{
   Future<void> sendRecognitionRequest(String url1, String url2) async {
     final data = {"url1": url1, "url2": url2};
     final response = await http.post(
@@ -57,6 +57,6 @@ https://github.com/thisFemi/face_recognition_python
     } finally {
      
     }
-  }
+  }}
 ## Video Tutorial
 Coming soon...
