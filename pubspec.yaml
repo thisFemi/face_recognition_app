@@ -36,11 +36,11 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   # capturing camera frame
-  camera: ^0.10.5+3
+
   # compressing the frame
-  image: ^4.0.17
+  
   # sending the frame to the backend
-  web_socket_channel: ^2.4.0
+
   http: ^1.1.0
 
 dev_dependencies:
